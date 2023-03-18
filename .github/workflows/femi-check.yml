@@ -1,0 +1,6 @@
+name: Post OgaAde comment
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull-requests: writewritewritewrite
